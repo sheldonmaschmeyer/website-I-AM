@@ -1,0 +1,13 @@
+{
+  "projectName": "html",
+  "projectServerModel": "PHP",
+  "targets": [
+    {
+      "access": "local",
+      "name": "apache",
+      "remoteURL": "https://localhost",
+      "localFolder": "file:///var/www/html"
+    }
+  ],
+  "activeTarget": "Local"
+}
