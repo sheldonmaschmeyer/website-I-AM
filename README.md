@@ -1,7 +1,7 @@
 # website-I-AM
 I-AM Retailer Solutions Inc. Website
 
-I-AM Retailer Solutions specialized in advanced retail display solutions, featuring video and mobile advertising capabilities. This business is family related. As of September 2020, all activities with I-AM Retailer Solutions Inc. has ceased. Brick-and-mortar retailers and investors are focused on the pandemic. The website nolonger exists. 
+I-AM Retailer Solutions specialized in advanced retail display solutions, featuring video and mobile advertising capabilities. As it was a family related startup business, most work was volunteer, unpaid with shares. As of September 2020, all activities with I-AM Retailer Solutions Inc. has ceased. Brick-and-mortar retailers and investors are focused on the pandemic.
 
 IT & Media Arts	June 2012 – September 2020 \
 Assignments and Projects completed: \
